@@ -1,3 +1,4 @@
+---
 version: 0.1
 globalTimeout: 150
 testSuiteTimeout: 150
